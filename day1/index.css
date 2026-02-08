@@ -1,0 +1,33 @@
+/* selector { */
+/* property: value */
+/* } */
+
+/* CSS Reset */
+
+/* Universal Selector */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tag and Element Based Selector */
+div {
+  background-color: deepskyblue;
+  border: 5px solid black;
+}
+
+/* Class Based Selector */
+.heading-div-class {
+  background-color: deeppink;
+}
+
+.spacings {
+  padding: 20px;
+  margin: 20px;
+}
+
+/* ID Based Selector */
+#paragraph-section {
+  background-color: green;
+}
